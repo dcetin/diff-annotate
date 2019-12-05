@@ -1,6 +1,8 @@
 # Diff-Annotate
 Data annotation tool with proposal generation and person detection support. It indicates the differences between subsequent frames with bounding boxes to identify regions of interest. Developed during [Hackathon on Permafrost](https://github.com/ETHZ-TEC/permafrostanalytics) and provided with a readme file afterwards.
 
+![comparison](comparison.jpg)
+
 ## Installation
 
 - Create a conda environment through the provided yml file.
