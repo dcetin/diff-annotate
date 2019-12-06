@@ -10,7 +10,7 @@ Data annotation tool with proposal generation and person detection support. It i
   conda env create -f environment.yml
   ```
 - Download the detector models ([RetinaNet](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5), [YOLOv3](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5), [TinyYOLOv3](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo-tiny.h5)) to be used and place them under a folder called `models`.
-- Download the [full image dataset](https://storageaccountperma8980.blob.core.windows.net/hackathon-on-permafrost/timelapse_images_fast.zip) (**6.7G!**) or rather experiment only with [images from a single day](https://n.ethz.ch/~dcetin/download/2017-09-08.zip) (**27M**) and place the image folders under a directory called `data`.
+- Download the [full image dataset](https://storageaccountperma8980.blob.core.windows.net/hackathon-on-permafrost/timelapse_images_fast.zip) (**6.7G!**) or rather experiment only with [images from a single day](https://n.ethz.ch/~dcetin/download/2017-09-08.zip) (**27M**). Unzip the archive and place the image folders under a directory called `data`.
 
 ## Usage
 
